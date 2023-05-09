@@ -1,4 +1,6 @@
-# What is TTT?
+# The assignment has been deployed on Netlify
+# Follow the Link here: [https://teribblytinytales-sakshisaini.netlify.app/](https://teribblytinytales-sakshisaini.netlify.app/)
+## What is TTT?
 
 Terribly Tiny Tales tells great stories with top creators for the world's most ambitious brands.
 
